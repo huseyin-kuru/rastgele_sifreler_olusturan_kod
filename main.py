@@ -23,3 +23,5 @@ def main():
 
 
 main() #main fonksiyonunu getirip çalıştırır
+
+#bu açıklama satırı 2.brenche eklenmiştir
