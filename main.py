@@ -17,5 +17,9 @@ def main():
       elif secim == 4 :
             islemler.anlik_uret() #islemler den anlik_uret fonksiyonunu çalıştırır
 
+      else:
+            print("hatalı giriş")
+
+
 
 main() #main fonksiyonunu getirip çalıştırır
