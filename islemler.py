@@ -195,3 +195,5 @@ def anlik_uret ():
     sifre = islem4+islem5+islem1+islem3+islem2
 
     print("şifreniz",sifre)
+
+    #bu satı bu koda sonradan eklenmiştir.
