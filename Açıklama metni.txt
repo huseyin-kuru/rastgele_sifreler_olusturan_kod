@@ -1,0 +1,6 @@
+Adım Hüseyin.İzmir'de bilgisayar bühendisliği okuyorum.Bu repository'yi paylaşma amacım bana öğretmenim tarafından verilen bir görev olması.Bu metinde yazdıklarım kesinlikle önemli birşey değildir tek amacı repositoryde değişiklik yapmak.Repositorymizde bulunan kod 
+       1.Yeni kullanıcı bilgileri girme 
+       2.Kayıtlı kullanıcı bilgilerini ekrana yazdırma 
+       3.Dosyadaki bilgilerden kullanıcı adı-güçlü şifre üretme
+       4.Anlık girdiyle kullanıcı adı-güçlü şifre üretme
+   işlemlerini yapmakta.
